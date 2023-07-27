@@ -54,7 +54,7 @@
 ![インストール04](https://github.com/k-ayaki/AppLint_Setup/assets/40140916/debbe0fd-2bcc-497a-9f1c-1bb9e6baae5f)
 
 # 明細書Lint 1.3.0の新機能一覧
-#　１．明細書Lintのリボン・インタフェース
+# １．明細書Lintのリボン・インタフェース
 
 <img width="223" alt="リボン" src="https://github.com/k-ayaki/AppLint_Setup/assets/40140916/9bc9d77e-3dfb-405a-9595-75a14d65b3c5">
 
