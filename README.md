@@ -53,3 +53,21 @@
 
 ![インストール04](https://github.com/k-ayaki/AppLint_Setup/assets/40140916/debbe0fd-2bcc-497a-9f1c-1bb9e6baae5f)
 
+# 明細書Lint 1.3.0の新機能一覧
+#　１．明細書Lintのリボン・インタフェース
+
+<img width="223" alt="リボン" src="https://github.com/k-ayaki/AppLint_Setup/assets/40140916/9bc9d77e-3dfb-405a-9595-75a14d65b3c5">
+
+ 請求項／明細書／サポート要件／文長の主要機能があります。消去は、検査結果のマーカやコメントを消去するものです。40x50と36x29は、WORDの段落を明細書の書式に合わせ、かつインターネット出願ソフトの形式に合わせるものです。
+
+# ２．各機能の紹介
+「請求項」･･･請求項の引用関係と前記の記載をチェックします。修正が必要な部分についてはWordのコメントで不具合が指摘されます。
+
+前記されていない名詞句を指摘します。
+
+<img width="978" alt="請求項" src="https://github.com/k-ayaki/AppLint_Setup/assets/40140916/8adfacd0-9c3e-4c2e-9cde-3beb01cb53c6">
+
+プリアンブルの語句と、発明の名称との相違を指摘します。そして、引用先の請求項１の発明の名称と、引用している請求項２の発明の名称との相違を指摘します。
+
+<img width="954" alt="請求項2" src="https://github.com/k-ayaki/AppLint_Setup/assets/40140916/13588973-9b55-471c-93e4-05080cdb2a6b">
+
