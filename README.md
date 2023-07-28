@@ -53,7 +53,7 @@
 
 ![インストール04](https://github.com/k-ayaki/AppLint_Setup/assets/40140916/debbe0fd-2bcc-497a-9f1c-1bb9e6baae5f)
 
-# 明細書Lint 1.3.0の新機能一覧
+# 明細書Lint 1.3.0の機能一覧
 ## １．明細書Lintのリボン・インタフェース
 　明細書LintをインストールしたのちにWordを起動すると、明細書Lintのリボン・インタフェースが現れます。
 
