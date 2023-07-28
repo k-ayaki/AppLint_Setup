@@ -87,4 +87,4 @@
 
 請求項の名詞が、発明を実施するための形態に記載されていれば水色で表示されます。請求項の名詞が、発明を実施するための形態に記載されていないとき、Wordのコメントで指摘されます。
 
-<img width="771" alt="サポート要件2002-332438" src="https://github.com/k-ayaki/AppLint_Setup/assets/40140916/928eb06d-7343-463c-a9ee-76f4a3c2c785">
+<img width="923" alt="サポート要件2002-332438" src="https://github.com/k-ayaki/AppLint_Setup/assets/40140916/eaf0e37f-9cea-475d-a1ff-b009c95318b2">
