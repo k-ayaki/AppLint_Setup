@@ -90,6 +90,6 @@
 <img width="923" alt="サポート要件2002-332438" src="https://github.com/k-ayaki/AppLint_Setup/assets/40140916/eaf0e37f-9cea-475d-a1ff-b009c95318b2">
 
 ### ２．４．文章長さ
-文章の長さが１００文字以上、または、文章に主語が記載されていないものなどを指摘します。
+明細書の文章の長さが１００文字以上、または、文章に主語が記載されていないものなどを指摘します。
 
 <img width="919" alt="文章の長さ2002-332438" src="https://github.com/k-ayaki/AppLint_Setup/assets/40140916/e71803f7-46cd-448e-ae46-ff11b16eb158">
