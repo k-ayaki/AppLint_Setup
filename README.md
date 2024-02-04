@@ -1,4 +1,5 @@
 # プライバシーポリシー
+![_7c111785-257f-4031-be33-83f4b4370539](https://github.com/k-ayaki/AppLint_Setup/assets/40140916/1a8db7f2-a9d2-4971-9135-20c7200119bc)
 
 ## 取得する利用者情報
 
